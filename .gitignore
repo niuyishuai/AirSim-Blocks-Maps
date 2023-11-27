@@ -2,6 +2,11 @@
 Plugins/
 # Don't add packaged binaries
 Packaged/
+Binaries/
+# Don't add temp files
+DerivedDataCache/
+Intermediate/
+Saved/
 
 # don't check-in generated files
 *.sln
